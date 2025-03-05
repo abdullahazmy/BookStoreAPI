@@ -77,6 +77,3 @@ BookStoreAPI/
 ## License
 📜 BookStoreAPI is licensed under the **MIT License**.
 
-## Contact
-📩 For any inquiries, contact **Abdullah Azmy** at [your email].
-
